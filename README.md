@@ -1,6 +1,23 @@
 # Giphy
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
+This app allows a user to view, search Github repositories. It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
+
+### Author
+
+By: Waweru Okwara.
+
+## Description
+
+This application has been designed using angular framework. It is an angular API meant to allow search repositories by username and be able to view the repositories there in.
+
+## Technologies Used
+* Angular CLI
+* Typescript
+* Bootstrap
+
+## Bug
+
+The app doesn't display any results for search.
 
 ## Development server
 
@@ -25,3 +42,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Contact details
+
+Contact me @wawerubenson47@gmail.com
+
+### License
+
+Copyright 2018 **tech-en**
